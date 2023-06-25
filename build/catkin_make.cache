@@ -1,0 +1,2 @@
+Geomagic_Touch_ROS_Drivers/omni_common:Geomagic_Touch_ROS_Drivers/omni_description:Geomagic_Touch_ROS_Drivers/omni_msgs:Geomagic_Touch_ROS_Drivers/robotiq_ft_sensor
+-DCATKIN_DEVEL_PREFIX=/home/yibeim/devel/Touch_ROS_Driver-master/catin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yibeim/devel/Touch_ROS_Driver-master/catin_ws/install -G Unix Makefiles

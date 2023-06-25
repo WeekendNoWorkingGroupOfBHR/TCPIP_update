@@ -1,0 +1,8 @@
+prefix=/home/yibeim/devel/Touch_ROS_Driver-master/catin_ws/devel
+
+Name: robotiq_ft_sensor
+Description: Description of robotiq_ft_sensor
+Version: 0.1.0
+Cflags: -I/home/yibeim/devel/Touch_ROS_Driver-master/catin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime geometry_msgs sensor_msgs std_msgs
